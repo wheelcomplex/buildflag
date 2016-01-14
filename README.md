@@ -1,4 +1,4 @@
 buildflag
 =========
 
-go build flag and comfirm
+go build flag and confirm
